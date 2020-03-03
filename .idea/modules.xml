@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Banco de Dados (Python)/.idea/Banco de Dados (Python).iml" filepath="$PROJECT_DIR$/../Banco de Dados (Python)/.idea/Banco de Dados (Python).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Python avançado.iml" filepath="$PROJECT_DIR$/.idea/Python avançado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Visualização de Dados/.idea/Visualização de Dados.iml" filepath="$PROJECT_DIR$/../Visualização de Dados/.idea/Visualização de Dados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python Basico e Intermed/.idea/untitled.iml" filepath="$PROJECT_DIR$/../Python Basico e Intermed/.idea/untitled.iml" />
+    </modules>
+  </component>
+</project>
